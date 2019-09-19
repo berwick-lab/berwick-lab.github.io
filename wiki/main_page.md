@@ -2,7 +2,7 @@
 redirect_from: "/"
 ---
 
-# Wiki of Berwick Lab
+# Welcome
 
 Welcome to the Wiki for Berwick lab! YIPEEEEEEEEEEE
 
