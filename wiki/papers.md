@@ -9,6 +9,7 @@ Here we can share some cool papers!
 	- even young children
 (2 years old) know more about language and can ‘judge’ sentences as grammatical or not,
 more than what the children are able to ‘say’.
+- [NEW PAPER](https://google.com)
 
 ## Neuro Encoding
 - [Spontaneous synchronization to speech reveals neural mechanisms facilitating language learning](https://www.nature.com/articles/s41593-019-0353-z)
